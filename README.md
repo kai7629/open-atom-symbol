@@ -33,7 +33,7 @@ Open Atom Symbol — Created by Kai
 #الاحاد #إلحاد  #لادينيون #ملحد #ملحدون
 
 <p align="center">
-  <img src="اسم_الصورة.png" width="300">
+  <img src="file_00000000c7c07246be2d19c958ccb149.png" width="300">
 </p>
 
 
