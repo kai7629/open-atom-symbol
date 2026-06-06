@@ -1,5 +1,6 @@
 <p align="left">
-  <img src="file_00000000c7c07246be2d19c958ccb149.png" width="300">
+  <img src="file_00000000c7c07246be2d19c958ccb149.png" 
+    width="300">
 </p>
 شعار "مدارات الحقيقة"
 
