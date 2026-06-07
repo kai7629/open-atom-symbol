@@ -10,7 +10,9 @@ The Open Atom is a symbol of Adinism — a philosophical position that rejects a
 
 It represents intellectual freedom, skepticism toward unproven claims, and the pursuit of knowledge without dogma.
 
-## Visit the Website
+## Learn More
+
+Discover the meaning of the symbol, the ideas behind it, and why its elements were chosen, click the link below.
 
 🔗 https://kai7629.github.io/open-atom-symbol/
 
