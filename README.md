@@ -15,7 +15,7 @@ It represents intellectual freedom, skepticism toward unproven claims, and the p
 Discover the meaning of the symbol, the ideas behind it, and why its elements were chosen, click the link below.
 
 
-🔗 [Click here](https://kai7629.github.io/open-atom-symbol/)
+🔗 [📖 Read the Full Explanation](https://kai7629.github.io/open-atom-symbol/)
 
 ---
 
