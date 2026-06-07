@@ -1,12 +1,19 @@
+# The Open Atom
 
-# مدارات الحقيقة
+<p align="center">
+  <img src="file_00000000c7c07246be2d19c958ccb149.png" width="300" alt="The Open Atom">
+</p>
 
-![الشعار]([https://kai7629.github.io/open-atom-symbol/atheist.png](https://kai7629.github.io/open-atom-symbol/file_00000000c7c07246be2d19c958ccb149.png))
+## About
 
-## ما هي مدارات الحقيقة؟
+The Open Atom is a symbol of Adinism — a philosophical position that rejects all human religions and encourages the search for truth through reason, evidence, and open inquiry.
 
-نص طويل يشرح الفلسفة...
+It represents intellectual freedom, skepticism toward unproven claims, and the pursuit of knowledge without dogma.
 
-## زيارة الموقع
+## Visit the Website
 
-https://kai7629.github.io/open-atom-symbol/
+🔗 https://kai7629.github.io/open-atom-symbol/
+
+---
+
+*"Truth belongs to no religion."*
